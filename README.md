@@ -6,7 +6,6 @@ A simple and interactive Tic-Tac-Toe game built using plain JavaScript, HTML, an
 
 - **Two Player Mode:** Play against a friend on the same device.
 - **Game Status:** Displays current game status (X wins, O wins, or Draw).
-- **Reset Game:** Option to reset the game to start a new round.
 - **Responsive Design:** Fully responsive layout suitable for both desktop and mobile devices.
 
 ## Technologies Used
